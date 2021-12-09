@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Material Didático de Física para o Ensino Médio
 
-You can use the [editor on GitHub](https://github.com/Departamento-de-Fisica-CEFET-MG/material-didatico/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Uma parceria entre o CEFET-MG e o IFMG
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Membros das instituições se uniram para produzir um material completo que será utilizado pelos estudantes de ensino médio.
 
-### Markdown
+## Capítulos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Veja materiais de apoio para cada seção abordada no material.
 
-```markdown
-Syntax highlighted code block
+### Tipos de Força
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Departamento-de-Fisica-CEFET-MG/material-didatico/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Pré requisitos
+2. Introdução
+3. Força Peso
+4. Força Normal
+5. Plano inclinado
+6. Tensão exercida por uma corda
+7. Força de interação e sistema de blocos
